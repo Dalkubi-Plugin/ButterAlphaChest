@@ -1,0 +1,31 @@
+name: ButterAlphaChest
+version: '1.0.0'
+main: kr.dalkubi.butterAlphaChest.ButterAlphaChest
+api-version: '1.17'
+
+permissions:
+  butter.alphachest.chest.1:
+    default: op
+  butter.alphachest.chest.2:
+    default: op
+  butter.alphachest.chest.3:
+    default: op
+  butter.alphachest.chest.4:
+    default: op
+  butter.alphachest.chest.5:
+    default: op
+  butter.alphachest.chest.6:
+    default: op
+  butter.alphachest.chest.7:
+    default: op
+  butter.alphachest.chest.8:
+    default: op
+  butter.alphachest.chest.9:
+    default: op
+
+commands:
+  창고:
+    description: 창고 명령어입니다.
+  창고관리:
+    description: 창고 관리 명령어입니다.
+    permission: op
